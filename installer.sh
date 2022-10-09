@@ -8,13 +8,13 @@
 # Plugin    ... Enter Manually
 ###################################################################################################################
 PACKAGE_DIR='xstreamity'
-MY_IPK="enigma2-plugin-extensions-xstreamity.ipk"
-MY_DEB="enigma2-plugin-extensions-xstreamity.deb"
+MY_IPK="enigma2-plugin-extensions-xstreamity_3.74.20220921_all.ipk"
+MY_DEB="enigma2-plugin-extensions-xstreamity_3.74.20220921_all.deb"
 ####################################################################################################################
 # Auto ... Do not change
 ####################################################################################################################
 # Decide : which package ?
-MY_MAIN_URL="http://giga-share.spdns.eu/lion/"
+MY_MAIN_URL="https://raw.githubusercontent.com/prof-abdo/xstreamity/main/"
 if which dpkg > /dev/null 2>&1; then
     MY_FILE=$MY_DEB
     MY_URL=$MY_MAIN_URL$PACKAGE_DIR'/'$MY_DEB
