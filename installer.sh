@@ -8,8 +8,8 @@
 # Plugin    ... Enter Manually
 ###################################################################################################################
 PACKAGE_DIR='xstreamity/main'
-MY_IPK="enigma2-plugin-extensions-xstreamity_3.74.20220921_all.ipk"
-MY_DEB="enigma2-plugin-extensions-xstreamity_3.74.20220921_all.deb"
+MY_IPK="enigma2-plugin-extensions-xstreamity_4.06.20230812_all.ipk"
+MY_DEB="enigma2-plugin-extensions-xstreamity_4.06.20230812_all.deb"
 ####################################################################################################################
 # Auto ... Do not change
 ####################################################################################################################
