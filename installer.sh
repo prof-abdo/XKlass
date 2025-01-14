@@ -1,15 +1,15 @@
 #!/bin/sh
 # ========================================== 
-# SCRIPT : DOWNLOAD AND INSTALL xstreamity # 
+# SCRIPT : DOWNLOAD AND INSTALL XKlass # 
 # =================================================================================================================
-# Command: wget https://raw.githubusercontent.com/prof-abdo/xstreamity/main/installer.sh -O - | /bin/sh #
+# Command: wget https://raw.githubusercontent.com/prof-abdo/XKlass/main/installer.sh -O - | /bin/sh #
 # =================================================================================================================
 ###################################################################################################################
 # Plugin    ... Enter Manually
 ###################################################################################################################
 PACKAGE_DIR='xstreamity/main'
-MY_IPK="enigma2-plugin-extensions-xstreamity_4.06.20230812_all.ipk"
-MY_DEB="enigma2-plugin-extensions-xstreamity_4.06_20230812_all.deb"
+MY_IPK="enigma2-plugin-extensions-xklass_1.32.20250110_all.ipk"
+MY_DEB="enigma2-plugin-extensions-xklass_1.32_20250110_all.deb"
 ####################################################################################################################
 # Auto ... Do not change
 ####################################################################################################################
